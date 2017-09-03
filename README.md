@@ -1,3 +1,9 @@
+Frontend Developer - Coding Challenge Create a one page webapp/website using the latest technologies from the visual mockup provided. This mockup is a microsite which purpose is to display ticket offers of the conference, enabling the audience to browse it and find the best deal that meets their needs. Your goal is to deliver the best user experience in order to achieve the purpose of this page. Write code from scratch using the minimum amount of required resources. Track the time you spend working on this task and share it with us when submitting your work. Resources: You will require Adobe PhotoShop CC or CS6 to open the mockup. You can download the file from this url:https://www.hrn.io/frontendtest/fontendtest_mockup.zip Use the Roboto font instead of the typekit fonts if necessary: https://fonts.google.com/specimen/Roboto Requirements: ● Write well commented, semantically correct HTML code. ● Use SCSS (Less/Sass) to write the CSS. Take your time writing proper resetting rules. ● Merge javascripts or use the EC6 modules methodology. ● Minify your code. ● Plan the structure of your code ina way that other developers can understand and modify it with ease. When submitting your work send us both the end product and the developer version. ● The webpage you create has to provide pixel perfect user experience and layout at any screen width from 320px to 3840px. When you want to scale the design keeping the aspect ratio of everything use vw/vh units or any alternative that provides flawless scaling. (example: From 1920px to 3840px everything should be scaled up keeping the aspect ratio.)
+● Add transitions and other elements to the page that you think would enhance its appearance and usability. You may digress from the mockup but if you do so, state your reason when submitting your work. Bonus Requirements: ● Use git/github or any other SVN tool to share the flow of your work. ● Build a webapp using some of the following: NodeJs, AngularJS, ReactJS ● If you are proud of your tools share them with us! (gulp scripts that automate the heavy lifting, customised IDE, bower script etc.) Questions & Submitting your work: If you have any questions please contact our Technical Director Tomas Bottyan at: tomas@hrn.io +36 20 40 40 222 You can submit your work by compressing your project folder into an archive and sending it using wetransfer to it@hrn.io or by uploading it to a repository of your choice
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -283,7 +289,7 @@ In the WebStorm menu `Run` select `Edit Configurations...`. Then click `+` and s
 
 Start your app by running `npm start`, then press `^D` on macOS or `F9` on Windows and Linux or click the green debug icon to start debugging in WebStorm.
 
-The same way you can debug your application in IntelliJ IDEA Ultimate, PhpStorm, PyCharm Pro, and RubyMine. 
+The same way you can debug your application in IntelliJ IDEA Ultimate, PhpStorm, PyCharm Pro, and RubyMine.
 
 ## Formatting Code Automatically
 
@@ -1769,7 +1775,7 @@ If you’re using [Apache HTTP Server](https://httpd.apache.org/), you need to c
     RewriteRule ^ index.html [QSA,L]
 ```
 
-It will get copied to the `build` folder when you run `npm run build`. 
+It will get copied to the `build` folder when you run `npm run build`.
 
 If you’re using [Apache Tomcat](http://tomcat.apache.org/), you need to follow [this Stack Overflow answer](https://stackoverflow.com/a/41249464/4878474).
 

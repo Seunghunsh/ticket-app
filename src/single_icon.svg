@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="19px" viewBox="0 0 11 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>single_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect x="0" y="34" width="11" height="19" id="rect-1"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="_desktop_TICKET_PAGE" transform="translate(-463.000000, -202.000000)">
+            <g id="_selector" transform="translate(-4.000000, 164.000000)">
+                <g id="_submenu">
+                    <g id="_single" transform="translate(467.000000, 4.000000)">
+                        <g id="single_icon">
+                            <image x="0" y="34" width="11" height="19" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAATCAYAAABGKffQAAAAAXNSR0IArs4c6QAAARxJREFUKBWNkjFLQlEYhr1WiDRIOQgtTiJKTZcCF3ERg9z9B3fRySkI0rVfENxf0NDW1k+ILlHgoqA0tkU0NfW8N7/LwVDvB+/93u89zzn3HtTLOBUEQYVxjOpogq7CMHynx+WZAdzHT9GRZfQZOmbDj7KsHss6p7ugYr2pLaNy4cO/6N/zwBIXfrJwpT/bvGMmiqIP3/cLzA3L6Dd8753Nyclc0GNhyEILDVCT+VI5Pq7EEN6S6JWv6BPpDmeoxqY+PRPDgF38g4I11WHDo33G9RrI4pGMx6kn9DdLN/S6Tr7YALhLXcG6RJpqCK6mIWFqgksp4aLgXEq4IDj5ybds2hM83wLZ8mIX10Q9dIrKSH+mPPpGX0iHvaD7XwzyNaObkROkAAAAAElFTkSuQmCC"></image>
+                            <use fill="#18A8E1" fill-rule="evenodd" xlink:href="#rect-1"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
