@@ -1,5 +1,6 @@
 {
   "name": "ticket-app",
+  "homepage": "https://github.com/Seunghunsh/ticket-app",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
@@ -7,6 +8,7 @@
   },
   "dependencies": {
     "bootstrap": "3",
+    "gh-pages": "^1.0.0",
     "material-ui": "^0.18.7",
     "node-sass-chokidar": "0.0.3",
     "npm-run-all": "^4.0.2",
@@ -17,6 +19,8 @@
     "react-tap-event-plugin": "^2.0.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start-js": "react-scripts start",
     "start": "npm-run-all -p watch-css start-js",
     "build": "npm run build-css && react-scripts build",

@@ -9,7 +9,6 @@ import single_icon from './single_icon.svg';
 // import FontIcon from 'material-ui/FontIcon';
 // import ActionFlightTakeoff from 'material-ui/svg-icons/action/flight-takeoff';
 // import injectTapEventPlugin from 'react-tap-event-plugin'
-import { Navbar, Jumbotron, Button } from 'react-bootstrap';
 import './styles/App.css'; // Tell Webpack that App.js uses these styles
 import logo_workday from './logo_workday.png';
 import clock from './clock.png';
