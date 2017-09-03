@@ -1,4 +1,4 @@
-Finished Live Demo: https://react-ticket-app.firebaseapp.com
+Finished Live Demo: http://leesearch.club/ticket-app/
 Done by Seunghun Lee
 
 
